@@ -6,6 +6,14 @@ Help people turn available resources into practical help. Fix-it combines a prop
 
 The long-term ambition is international, always-accessible coordination. Real coverage must be stated by location, service category, payment method and operating hours.
 
+## Initial focus: roadside assistance through existing providers
+
+Fix-it's first intended service scope is automotive assistance: roadside help, towing, repair and onward-travel coordination through existing qualified providers. It does not plan an owned towing fleet or repair shops. Insurance is a later partner capability, not a prerequisite for this first scope.
+
+Korako and Mira would coordinate the person's goal and approvals; Fix-it would connect assistance and payment. Supported source assets should remain separate until the user approves a conversion. The provider must see the net payout, currency, timing and conditions.
+
+Payment capability is designed first. No separate Korako coin is planned: a future Fix-it coin could serve participating projects if it demonstrates useful benefits. Users and providers must retain suitable supported payment and payout choices.
+
 ## Illustrative journeys
 
 | Situation | Proposed response | Evidence of completion |
