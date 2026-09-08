@@ -15,6 +15,14 @@ A driver needs a repair abroad but has no locally accepted payment method. A fam
 
 Fix-it aims to connect each need with qualified help, a clear agreement, a supported way to pay or fund the work, and evidence of the outcome.
 
+## Initial focus: roadside assistance through existing providers
+
+Fix-it's first intended service scope is automotive assistance: roadside help, towing, repair and onward-travel coordination through existing qualified providers. It does not plan an owned towing fleet or repair shops. Insurance is a later partner capability, not a prerequisite for this first scope.
+
+Korako and Mira would coordinate the person's goal and approvals; Fix-it would connect assistance and payment. Supported source assets should remain separate until the user approves a conversion. The provider must see the net payout, currency, timing and conditions.
+
+Payment capability is designed first. No separate Korako coin is planned: a future Fix-it coin could serve participating projects if it demonstrates useful benefits. Users and providers must retain suitable supported payment and payout choices.
+
 ## The proposed experience
 
 1. **Describe the need.** Explain the situation and desired result.
@@ -61,7 +69,7 @@ Projects would use verified needs, approved budgets, qualified work and transpar
 | Public vision, scope and staged roadmap | Documented |
 | Working service marketplace | Not implemented |
 | Korako / payment integration | Proposed |
-| Test-balance simulator | Planned |
+| Test-balance simulator | Private isolated experiment; local tests passed, independent review pending |
 | Issued cryptocurrency and smart contracts | Not implemented |
 | Insurance, settlement and provider partnerships | Not established by this repository |
 | Worldwide availability | Long-term ambition |
