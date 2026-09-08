@@ -1,6 +1,6 @@
 # Fix-it roadmap
 
-Status: proposed work; no completion dates or runtime results are claimed.
+Status: staged roadmap. An initial private test-balance experiment has seven passing local tests; it is not independently reviewed and does not complete milestone 2.
 
 ## 1. Public concept
 
@@ -41,13 +41,13 @@ Acceptance requires the relevant operational and jurisdictional reviews, actual 
 
 ## 5. Local service and community pilot
 
-Start with one service category and verified providers. Establish job standards, inspection, disputes and separately accounted assistance contributions.
+Start with automotive roadside assistance through existing qualified providers: roadside help, towing and repair coordination. Do not build an owned fleet or repair shops. Broader services and insurance follow later readiness. Establish job standards, inspection, disputes and separately accounted assistance contributions.
 
 Measure completion quality, response time, complaints, remediation cost and participant experience. Do not invent time savings or treat star ratings as safety certification.
 
 ## 6. Cryptocurrency decision and prototype
 
-Document why a Fix-it token improves the validated service. Evaluate transferability, custody, liquidity, costs and legal classification. Define the design before choosing a chain.
+No separate Korako coin is planned. Document why a shared Fix-it token improves the validated service. Evaluate transferability, custody, liquidity, costs and legal classification. Define the design before choosing a chain.
 
 If justified, build and review a testnet prototype. No token launch or token sale is authorized by this roadmap.
 
